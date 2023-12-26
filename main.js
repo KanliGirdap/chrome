@@ -7,7 +7,6 @@ function instaPhoto(){
         elements.forEach(function(element) {
             element.remove();
         });
-    console.log("test")
 
             //}
 }
